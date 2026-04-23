@@ -1,0 +1,4 @@
+2026-04-23 20:31:45 - bot.client - INFO - Binance Futures client initialized successfully
+2026-04-23 20:31:46 - bot.orders - INFO - Current market price for BTCUSDT: 78121.4
+2026-04-23 20:31:46 - bot.client - INFO - Placing order: {'symbol': 'BTCUSDT', 'side': 'BUY', 'type': 'MARKET', 'quantity': 0.001}
+2026-04-23 20:31:46 - bot.client - INFO - Order placed successfully: {'orderId': 13065826727, 'symbol': 'BTCUSDT', 'status': 'NEW', 'clientOrderId': 'Wv8FGmgVjXJrKDH4L7F4yV', 'price': '0.00', 'avgPrice': '0.00', 'origQty': '0.0010', 'executedQty': '0.0000', 'cumQty': '0.0000', 'cumQuote': '0.000000', 'timeInForce': 'GTC', 'type': 'MARKET', 'reduceOnly': False, 'closePosition': False, 'side': 'BUY', 'positionSide': 'BOTH', 'stopPrice': '0.00', 'workingType': 'CONTRACT_PRICE', 'priceProtect': False, 'origType': 'MARKET', 'priceMatch': 'NONE', 'selfTradePreventionMode': 'EXPIRE_MAKER', 'goodTillDate': 0, 'updateTime': 1776956506387}
