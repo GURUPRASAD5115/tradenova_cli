@@ -139,7 +139,7 @@ Avg Price: 64000.00
 Logs are stored in:
 
 ```
-logs/trading.log
+logs/trading_bot_20260423_081111.log
 ```
 
 Includes:
@@ -203,13 +203,6 @@ The repository includes logs for:
 * Add UI dashboard
 * Add strategy-based trading (Grid / TWAP)
 * Docker support
-
----
-
-## 👨‍💻 Author
-
-Your Name
-GitHub: [https://github.com/your-username](https://github.com/your-username)
 
 ---
 
